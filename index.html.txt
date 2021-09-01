@@ -9,6 +9,7 @@
 	
 </head>
 <body>
+	<form  class="form"  >
 <img src="image/picture.png" alt = "Ayoub LAMHAOUL" >
 	<p> Je suis cool est sympat,curieux,motivé, ma spécialité c'est dans le doméne d'ingenieurie industriel donc j'aime le sport tel que le football, la natation, basketball ainsi de suite, se profile a était crée par moi méme pour voir mes capacité et je suis a quelle niveau dans le domaine informatique.</p>
 	<a href="https://google.com" target="_blank" > Clicker Ici </a> 
@@ -46,6 +47,6 @@
 	</a>
 	</li>
 	</ul>
-
+</form>
 </body>
 </html>
