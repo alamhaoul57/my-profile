@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AYOUB LAMHAOUL  </title>
+    <meta name="description" content="profile of AYOUB">
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+	<h1>Hello I'm AYOUB LAMHAOUL</h1>
+	
+</head>
+<body>
+<img src="image/picture.png" alt = "Ayoub LAMHAOUL" >
+	<p> Je suis cool est sympat,curieux,motivé, ma spécialité c'est dans le doméne d'ingenieurie industriel donc j'aime le sport tel que le football, la natation, basketball ainsi de suite, se profile a était crée par moi méme pour voir mes capacité et je suis a quelle niveau dans le domaine informatique.</p>
+	<a href="https://google.com" target="_blank" > Clicker Ici </a> 
+	<h2> Lean manufacturier </h2>
+	<p>
+		je suis passionné au tout ce qui concerne la fabriquation et la production 
+	</p>
+
+	<h2> Amelioration d'un processus  </h2>
+	<p>
+		Integration des nouvelles outils d'amelioration 
+	</p>
+
+	<h2> les motos </h2>
+	<p>
+		je suis passionné au motos 
+	</p>
+
+    <h2> Follow me</h2>
+
+	<ul>
+	<li>
+		<a href="#" target="_blank">
+		<i class="fab fa-facebook-f"></i> 
+	</a>
+	</li>
+	<li>
+		<a href="#" target="_blank">
+		<i class="fab fa-linkedin-in"></i> 
+	</a>
+    </li>
+	<li>  
+		<a href="#" target="_blank">
+		<i class="fab fa-twitter-square"></i> 
+	</a>
+	</li>
+	</ul>
+
+</body>
+</html>
